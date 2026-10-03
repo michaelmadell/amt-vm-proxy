@@ -1,0 +1,5 @@
+* text=auto eol=lf
+*.bat text eol=crlf
+*.exe binary
+*.qcow2 binary
+*.fd binary
