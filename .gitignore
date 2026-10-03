@@ -1,0 +1,6 @@
+fake-amt
+*.exe
+*.exe~
+*.qcow2
+*.fd
+bin/
